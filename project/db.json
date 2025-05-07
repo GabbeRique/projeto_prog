@@ -1,0 +1,49 @@
+{
+  "categories": [
+    { "id": 1, "name": "Resort", "icon": "resort.png" },
+    { "id": 2, "name": "Homestay", "icon": "homestay.png" },
+    { "id": 3, "name": "Hotel", "icon": "hotel.png" },
+    { "id": 4, "name": "Lodge", "icon": "lodge.png" },
+    { "id": 5, "name": "Villa", "icon": "villa.png" },
+    { "id": 6, "name": "Apartment", "icon": "apartment.png" },
+    { "id": 7, "name": "Hostel", "icon": "hostel.png" }
+  ],
+  "destinations": [
+    { 
+      "id": 1, 
+      "name": "Mountain Lake", 
+      "image": "https://images.pexels.com/photos/147411/italy-mountains-dawn-daybreak-147411.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1", 
+      "rating": 4.8 
+    },
+    { 
+      "id": 2, 
+      "name": "Forest Valley", 
+      "image": "https://images.pexels.com/photos/2754200/pexels-photo-2754200.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1", 
+      "rating": 4.5 
+    },
+    { 
+      "id": 3, 
+      "name": "Tropical Beach", 
+      "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1", 
+      "rating": 4.9 
+    }
+  ],
+  "recommended": [
+    { 
+      "id": 1, 
+      "name": "Mountain Highway", 
+      "image": "https://images.pexels.com/photos/775201/pexels-photo-775201.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1", 
+      "rating": 4.7 
+    },
+    { 
+      "id": 2, 
+      "name": "Florence Cathedral", 
+      "image": "https://images.pexels.com/photos/10922/pexels-photo-10922.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1", 
+      "rating": 4.9 
+    }
+  ],
+  "profile": {
+    "name": "Donna Stoxiep",
+    "avatar": "avatar.png"
+  }
+}
